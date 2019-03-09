@@ -4,6 +4,7 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
+<<<<<<< HEAD
     <groupId>cn.itcast</groupId>
     <artifactId>spring_MVC_day_01fgf</artifactId>
     <version>1.0-SNAPSHOT</version>
@@ -49,5 +50,17 @@
             <scope>provided</scope>
         </dependency>
     </dependencies>
+=======
+    <groupId>com.itcast</groupId>
+    <artifactId>itcast_fastdfs</artifactId>
+    <version>1.0-SNAPSHOT</version>
+<dependencies>
+    <dependency>
+        <groupId>org.csource.fastdfs</groupId>
+        <artifactId>fastdfs</artifactId>
+        <version>1.2</version>
+    </dependency>
+</dependencies>
+>>>>>>> 6ceea241ac2e8c0689e1de68512d08b74e69c253
 
 </project>
